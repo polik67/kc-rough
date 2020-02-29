@@ -8,12 +8,62 @@ body {
 	background-color: #a1d8ed;
 }
 
+.circle {
+      width: 200px;
+      height: 200px;
+      background: radial-gradient(orange, transparent);
+      border-radius: 100%;
+      margin-top: 43em;
+      margin-left: 1em;
+      position: absolute;
+    }
+
+#torch {
+	width: 15em;
+	margin-top: 45em;
+	position: absolute;
+}
+
+#torch1 {
+	width: 15em;
+	margin-top: 45em;
+	margin-left: 104em;
+	position: absolute;
+}
+
+#torch2 {
+	width: 15em;
+	margin-top: 90em;
+	position: absolute;
+}
+
+#torch3 {
+	width: 15em;
+	margin-top: 90em;
+	margin-left: 104em;
+	position: absolute;
+}
+
+#torch4 {
+	width: 15em;
+	margin-top: 135em;
+	position: absolute;
+}
+
+#torch5 {
+	width: 15em;
+	margin-top: 135em;
+	margin-left: 104em;
+	position: absolute;
+}
+
 
 #layer1 {
 	max-width: 100%;
 	align-items: center;
 	position: absolute;
 	padding-top: 20em;
+	width: 2200px;
 }
 
 
