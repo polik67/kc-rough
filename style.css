@@ -11,12 +11,72 @@ body {
 .circle {
       width: 200px;
       height: 200px;
-      background: radial-gradient(orange, transparent);
+      background-image: radial-gradient( rgba(255, 149, 27, 0.1) 0%, rgba(255, 255, 2555, 0.0) );
       border-radius: 100%;
       margin-top: 43em;
       margin-left: 1em;
-      position: absolute;
+	  z-index: 1000;
+	  position: absolute;
+	 
     }
+
+
+.circle2 {
+	width: 200px;
+      height: 200px;
+      background-image: radial-gradient( rgba(255, 149, 27, 0.1) 0%, rgba(255, 255, 2555, 0.0) );
+      border-radius: 100%;
+      margin-top: 43em;
+      margin-left: 105em;
+	  z-index: 1000;
+	  position: absolute;
+}
+
+.circle3 {
+	width: 200px;
+      height: 200px;
+      background-image: radial-gradient( rgba(255, 149, 27, 0.1) 0%, rgba(255, 255, 2555, 0.0) );
+      border-radius: 100%;
+      margin-top: 88em;
+      margin-left: 1em;
+	  z-index: 1000;
+	  position: absolute;
+}
+
+.circle4 {
+	width: 200px;
+      height: 200px;
+      background-image: radial-gradient( rgba(255, 149, 27, 0.1) 0%, rgba(255, 255, 2555, 0.0) );
+      border-radius: 100%;
+      margin-top: 88em;
+      margin-left: 105em;
+	  z-index: 1000;
+	  position: absolute;
+}
+
+.circle5 {
+	width: 200px;
+      height: 200px;
+      background-image: radial-gradient( rgba(255, 149, 27, 0.1) 0%, rgba(255, 255, 2555, 0.0) );
+      border-radius: 100%;
+      margin-top: 133em;
+      margin-left: 1em;
+	  z-index: 1000;
+	  position: absolute;
+}
+
+.circle6 {
+	width: 200px;
+      height: 200px;
+      background-image: radial-gradient( rgba(255, 149, 27, 0.1) 0%, rgba(255, 255, 2555, 0.0) );
+      border-radius: 100%;
+      margin-top: 133em;
+      margin-left: 105em;
+	  z-index: 1000;
+	  position: absolute;
+}
+
+
 
 #torch {
 	width: 15em;
@@ -64,6 +124,7 @@ body {
 	position: absolute;
 	padding-top: 20em;
 	width: 2200px;
+
 }
 
 
@@ -83,6 +144,7 @@ body {
 	position: absolute;
 	left: -50%;
 	top: -50%;
+
 }
 
  
