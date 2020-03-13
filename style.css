@@ -8,6 +8,17 @@ body {
 	background-color: #a1d8ed;
 }
 
+
+
+p {
+	position: absolute;
+	font-size: 26px;
+	margin-top: 29em;
+	color: white;
+	padding: 8em;
+	font-family: 'Roboto Slab', serif;
+}
+
 .circle {
       width: 200px;
       height: 200px;
