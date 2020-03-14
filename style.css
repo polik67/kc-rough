@@ -19,6 +19,28 @@ p {
 	font-family: 'Roboto Slab', serif;
 }
 
+
+#grave {
+	position: absolute;
+	margin-top: 24em;
+	width: 750px;
+    height: auto;
+	display: block;
+	margin-left: 14em;
+	
+}
+
+#plains {
+	position: absolute;
+	margin-top: 3em;
+	width: 750px;
+    height: auto;
+    display: block;
+    margin-left: 14em;
+    
+	
+}
+
 .circle {
       width: 200px;
       height: 200px;
